@@ -14,6 +14,10 @@ This project demonstrates the use of:
 
 ---
 
+## live at 
+ https://anshika-123-tech.github.io/image-gallery/
+
+ ---
 ## ✨ Features
 
 ### 🖼 Responsive Image Gallery
