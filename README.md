@@ -15,7 +15,7 @@ This project demonstrates the use of:
 ---
 
 ## live at 
- https://anshika-123-tech.github.io/image-gallery/
+ https://anshika-123-tech.github.io/image-gallery
 
  ---
 ## ✨ Features
@@ -215,3 +215,10 @@ B.Tech Student
 This project is created for educational and learning purposes.
 
 Feel free to use, modify, and enhance the project for academic or personal use.
+
+## Screenshot
+<img width="1898" height="952" alt="Screenshot 2026-05-31 152033" src="https://github.com/user-attachments/assets/e77241c1-c4ed-4bb0-ae28-7a6b35425ffb" />
+<img width="1901" height="753" alt="Screenshot 2026-05-31 152016" src="https://github.com/user-attachments/assets/5acda7f5-2406-4f9c-abc8-c7aa5122baa0" />
+
+<img width="1887" height="844" alt="image" src="https://github.com/user-attachments/assets/2dce7544-1fe3-4d28-a100-0191a9ad900d" />
+
